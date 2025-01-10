@@ -1,0 +1,7 @@
+  SYSTEM preperation is performed with CHARMMGUI
+==================================================
+1. the inputs are the pdb after loop modeling
+2. the condition is : 
+    box size: 130 angstrom
+    NaCl:     200 mM
+    TIP3P water
