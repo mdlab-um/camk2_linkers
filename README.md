@@ -4,18 +4,21 @@ Atomistic simulations were ultilized to model the structure and interaction of d
 
 Specificially,
 
-1_tructure models/: 
+1_tructure models/ 
+
   initial structural models derived from Modeller
   the last snapshots of MD simulations at 400 K.  
 
-2_simulation_scripts: including the loop modeling, simulation and analysis scripts.  
+2_simulation_scripts/
+
+  All steps including loop modeling, simulation and analysis scripts.  
   
-3_trajectory_movies: The representative movies from trajectories.
+3_trajectory_movies/ 
 
+  movies from representative trajectories of each construct.
 
+See README within each directory for additional information.
 
-
-Updated Date: Apr/29/2025    
-
-Updated by: Kairong Dong   
+Kairong Dong and Jianhan Chen (jianhanc@umass.edu)  
+Last updated: Apr/29/2025    
 
