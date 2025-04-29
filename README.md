@@ -9,6 +9,7 @@ Specificially,
 1_tructure models/ 
 
   initial structural models derived from Modeller
+  
   the last snapshots of MD simulations at 400 K.  
 
 2_simulation_scripts/
