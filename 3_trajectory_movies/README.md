@@ -1,3 +1,4 @@
+# movie are generated with VMD
 1. These movies are to show the interaction between the regulatory sequence /cam binding sequence of chain B  and  the residues of chain A linker
     chain A: cyan
     chain B: purple
