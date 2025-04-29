@@ -28,13 +28,13 @@ Updated by: Kairong Dong
     box size (130 angstrom)
     ion (NaCl 200mM)
     TIP3P water
-3. The systems generated with CHARMMGUI containing the protein, ion and water can be found in this folder under current folder:3_system_set_up
+3. The systems generated with CHARMMGUI containing the protein, ion and water can be found in this folder under current folder: 3_system_set_up
 
 ## 3. Use GROMACS to run the simulation
 
 1. tool: GROMACS 2019.4
-2. The scripts for energy minimization and equilibration and the output system infomation can be find in this folder under current folder:4_minimization_and_equilibration
-3. The scripts for trajectory production and the produced structure and trajectories can be found in this folder under current folder:4_minimization_and_equilibration
+2. The scripts for energy minimization and equilibration and the output system infomation can be find in this folder under current folder: 4_minimization_and_equilibration
+3. The scripts for trajectory production and the produced structure and trajectories can be found in this folder under current folder: 5_camk2_production
 
 ## 4. Use GROMACS to analyze the RMSD, RMSF and pairwise distance
 
