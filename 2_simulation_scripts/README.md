@@ -1,4 +1,4 @@
-# Scripts for simulation
+# Simulation and analysis: major steps and scripts
 
 ## The tetramer strunture is generatured through PyMol
 
