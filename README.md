@@ -6,7 +6,7 @@ Atomistic simulations were ultilized to model the structure and interaction of d
 
 Specificially,
 
-1_tructure models/ 
+1_structure models/ 
 
 &nbsp;&nbsp;&nbsp;  initial structural models derived from Modeller<br>
 &nbsp;&nbsp;&nbsp; the last snapshots of MD simulations at 400 K.  
