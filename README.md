@@ -8,8 +8,8 @@ Specificially,
 
 1_structure models/ 
 
-&nbsp;&nbsp;&nbsp;  initial structural models derived from Modeller<br>
-&nbsp;&nbsp;&nbsp; the last snapshots of MD simulations at 400 K.  
+&nbsp;&nbsp;&nbsp; Initial structural models derived from Modeller<br>
+&nbsp;&nbsp;&nbsp; Last snapshots of MD simulations at 400 K.  
 
 2_simulation_scripts/
 
@@ -17,7 +17,7 @@ Specificially,
   
 3_trajectory_movies/ 
 
-&nbsp;&nbsp;&nbsp;  movies from representative trajectories of each construct.
+&nbsp;&nbsp;&nbsp;  Movies from a representative trajectory of each construct.
 
 See README within each directory for additional information.
 
