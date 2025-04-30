@@ -13,7 +13,7 @@ Specificially,
 
 2_simulation_scripts/
 
-&nbsp;&nbsp;&nbsp;  All steps including loop modeling, simulation and analysis scripts.  
+&nbsp;&nbsp;&nbsp;  Key scripts for loop modeling, simulation and analysis.  
   
 3_trajectory_movies/ 
 
