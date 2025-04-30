@@ -1,14 +1,14 @@
 # Simulation and analysis: major steps and scripts
 
 ------
-linker_loop_modeling/<br>
+linker_loop_modeling_scripts/<br>
 
 The simulation construct consists of two complete monomers and only the two hub domains of the neighborly packed monomers within the dodecamer. The initial construct for CamK2d was extract from PDB: 8USO (see camk2d/ABCD_truncated_clean.pdb), and the one for CamK2a was extract PDB:3SOA (see camk2a/a-tetra-organize.pdb)
 
 The missing loops and linkers were then built using Modeller based on the full sequence, for example, see *_generate.py and *_build.py
 
 ------
-solvated_system/<br>
+system_set_up/<br>
 mini_and_equil/<br>
 production/
 
